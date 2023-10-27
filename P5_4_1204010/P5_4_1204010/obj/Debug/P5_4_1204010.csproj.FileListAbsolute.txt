@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Source\Repos\Praktikum3_Haryadi\P5_4_1204010\P5_4_1204010\bin\Debug\P3_4_1204026.exe.config
+C:\Users\Lenovo\Source\Repos\Praktikum3_Haryadi\P5_4_1204010\P5_4_1204010\bin\Debug\P3_4_1204026.exe
+C:\Users\Lenovo\Source\Repos\Praktikum3_Haryadi\P5_4_1204010\P5_4_1204010\bin\Debug\P3_4_1204026.pdb
+C:\Users\Lenovo\Source\Repos\Praktikum3_Haryadi\P5_4_1204010\P5_4_1204010\obj\Debug\P5_4_1204010.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Source\Repos\Praktikum3_Haryadi\P5_4_1204010\P5_4_1204010\obj\Debug\P3_4_1204026.Form1.resources
+C:\Users\Lenovo\Source\Repos\Praktikum3_Haryadi\P5_4_1204010\P5_4_1204010\obj\Debug\P3_4_1204026.Properties.Resources.resources
+C:\Users\Lenovo\Source\Repos\Praktikum3_Haryadi\P5_4_1204010\P5_4_1204010\obj\Debug\P5_4_1204010.csproj.GenerateResource.cache
+C:\Users\Lenovo\Source\Repos\Praktikum3_Haryadi\P5_4_1204010\P5_4_1204010\obj\Debug\P5_4_1204010.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Source\Repos\Praktikum3_Haryadi\P5_4_1204010\P5_4_1204010\obj\Debug\P3_4_1204026.exe
+C:\Users\Lenovo\Source\Repos\Praktikum3_Haryadi\P5_4_1204010\P5_4_1204010\obj\Debug\P3_4_1204026.pdb
